@@ -1,0 +1,6 @@
+framework module Pods_AdMob_Banner_Example_in_Swift {
+  umbrella header "Pods-AdMob Banner Example in Swift-umbrella.h"
+
+  export *
+  module * { export * }
+}
